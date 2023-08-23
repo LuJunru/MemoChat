@@ -29,7 +29,7 @@ Run `bash code/scripts/llm_judge.sh RootPath` for GPT4 judge (openai api is requ
 ```
 
 ### Our Results
-We provide our prediction results here: TBD.
+We provide our prediction results [here](https://drive.google.com/file/d/1jGNhT3iPXEA8B2fXHZ2Einy1AMre-8xB/view?usp=sharing).
 
 ## Acknowledgement
 We thank [Vicuna project](https://github.com/lm-sys/FastChat/tree/main) for their great work.
