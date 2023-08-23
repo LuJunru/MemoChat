@@ -1,1 +1,1 @@
-Folder to store mtbench+ testing results
+Folder to store mtbenchplus testing results
