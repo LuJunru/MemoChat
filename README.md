@@ -5,14 +5,14 @@ MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-domain Convers
 We provide [core_requirement.txt](core_requirement.txt) for your convenience.
 
 ## Model Weights
-The initial models we used are [fastchat models (v1.3)](https://lmsys.org/blog/2023-03-30-vicuna/). Below are the model weights of our fine-tuned version.
+The initial models we used are [fastchat models (v1.3)](https://lmsys.org/blog/2023-03-30-vicuna/). Below are the model weights of our fine-tuned version. Our models are built upon Fastchat modles, thus we adopt same cc-by-nc-sa-4.0 license.
 
 | Name | Share Link |
 | --- | --- |
-| MemoChat-Fastchat-T5-3B | TBD |
-| MemoChat-Vicuna-7B | TBD |
-| MemoChat-Vicuna-13B | TBD |
-| MemoChat-Vicuna-33B | TBD |
+| MemoChat-Fastchat-T5-3B | https://huggingface.co/Junrulu/MemoChat-Fastchat-T5-3B |
+| MemoChat-Vicuna-7B | https://huggingface.co/Junrulu/MemoChat-Vicuna-7B |
+| MemoChat-Vicuna-13B | https://huggingface.co/Junrulu/MemoChat-Vicuna-13B |
+| MemoChat-Vicuna-33B | https://huggingface.co/Junrulu/MemoChat-Vicuna-33B |
 
 ## Workflow
 `RootPath` is the absolute path of this repo. Download initial models and put them in [model](model) folder.
