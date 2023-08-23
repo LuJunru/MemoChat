@@ -5,7 +5,7 @@ MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-domain Convers
 We provide [core_requirement.txt](core_requirement.txt) for your convenience.
 
 ## Model Weights
-The initial models we used are [fastchat models (v1.3)](https://lmsys.org/blog/2023-03-30-vicuna/). Below are the model weights of our fine-tuned version. Our models are built upon Fastchat modles, thus we adopt same cc-by-nc-sa-4.0 license.
+The initial models we used are [fastchat models (v1.3)](https://lmsys.org/blog/2023-03-30-vicuna/). Below are the model weights of our fine-tuned version. Our models are built upon Fastchat modles, thus we adopt same `cc-by-nc-sa-4.0` license.
 
 | Name | Share Link |
 | --- | --- |
