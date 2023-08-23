@@ -15,10 +15,9 @@ The initial models we used are [fastchat models (v1.3)](https://lmsys.org/blog/2
 | MemoChat-Vicuna-33B | TBD |
 
 ## Workflow
-`RootPath` is the absolute path of this repo.
+`RootPath` is the absolute path of this repo. Download initial models and put them in [model](model) folder.
 ### Instruction Tuning
 ```
-Download initial models and put them in [model](model) folder.
 Run `bash code/scripts/tuning.sh RootPath`. Intermediate evaluation are included in this script as well.
 ```
 
