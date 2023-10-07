@@ -1,5 +1,5 @@
 ## Raw data reconstruction
-This folder includes the raw data, codes and results of the reconstruction of the raw data
+This folder includes the link of raw data, codes and results of the reconstruction of the raw data. Please download raw data from the links, following their licenses.
 
 ### Raw data
 - alpaca_gpt4: a public dataset released by [Flancuna Project](https://github.com/declare-lab/flacuna/tree/main/data)
